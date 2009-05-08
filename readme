@@ -1,6 +1,3 @@
 echo "Hello world"
-<<<<<<< HEAD:readme
-echo "israel"
-=======
 echo "who are you?"
->>>>>>> test:readme
+echo "israel"
