@@ -1,5 +1,3 @@
-<<<<<<< HEAD:README
+Line 1
 echo "What is this?"
-=======
-echo "Hello world"
->>>>>>> testbranch:README
+Line 2
